@@ -64,7 +64,18 @@ Leading a team in the ongoing development of a transport booking application as 
 - Supporting technical architecture and development planning.
 - Currently in the Project Decisions & Planning phase.
 
-### Python Task Manager
+### Command-Line Scientific Calculator
+**![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Decimal](https://img.shields.io/badge/Decimal-3776AB?style=for-the-badge) ![cmath](https://img.shields.io/badge/cmath-00599C?style=for-the-badge) ![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge)**
+
+A feature-rich command-line calculator developed in Python, supporting mathematical operations, scientific calculations, unit conversions and statistical analysis.
+
+- Basic and advanced arithmetic, including logarithms, surds and quadratic equations.
+- Geometric calculations covering areas, volumes and surface areas.
+- Unit conversions across length, area, volume and mass.
+- Statistical functions, including mean, median, mode, range and interquartile range (IQR).
+- Input validation and modular calculation functions.
+
+### Task Manager Application
 
 **![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-306998?style=for-the-badge&logo=python&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)**
 
