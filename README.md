@@ -44,7 +44,7 @@ I enjoy building practical applications, exploring new technologies and developi
 
 ## Featured Projects
 
-### Document Knowledge Base API
+### [Document Knowledge Base API](https://github.com/ArashHafiz/knowledgebase)
 
 **![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)**
 
@@ -64,7 +64,7 @@ Leading a team in the ongoing development of a transport booking application as 
 - Supporting technical architecture and development planning.
 - Currently in the Project Decisions & Planning phase.
 
-### Command-Line Scientific Calculator
+### [Command-Line Scientific Calculator](https://github.com/ArashHafiz/calculator)
 **![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Decimal](https://img.shields.io/badge/Decimal-3776AB?style=for-the-badge) ![cmath](https://img.shields.io/badge/cmath-00599C?style=for-the-badge) ![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge)**
 
 A feature-rich command-line calculator developed in Python, supporting mathematical operations, scientific calculations, unit conversions and statistical analysis.
@@ -75,7 +75,7 @@ A feature-rich command-line calculator developed in Python, supporting mathemati
 - Statistical functions, including mean, median, mode, range and interquartile range (IQR).
 - Input validation and modular calculation functions.
 
-### Task Manager Application
+### [Task Manager Application](https://github.com/ArashHafiz/task_manager)
 
 **![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-306998?style=for-the-badge&logo=python&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)**
 
