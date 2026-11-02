@@ -11,7 +11,6 @@ I enjoy building practical applications, exploring new technologies and developi
 - Currently developing a document knowledge base API using Python, FastAPI and SQLAlchemy.
 - Vice-President of Computer Programming Unplugged (CPU) at Heriot-Watt University Malaysia.
 - Recipient of the 2026 MACS Industrial Prize, awarded for ranking among the top three Computing Science students in my cohort.
-- Always looking to learn, build and improve.
 
 ## Technical Skills
 
