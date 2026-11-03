@@ -35,7 +35,7 @@ I enjoy building practical applications, exploring new technologies and developi
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-306998?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools & Concepts
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -43,10 +43,7 @@ I enjoy building practical applications, exploring new technologies and developi
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-153B65?style=for-the-badge)\
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object--Oriented_Programming-6A5ACD?style=for-the-badge)
-![Relational Database Design](https://img.shields.io/badge/Relational_Database_Design-4479A1?style=for-the-badge)
+![GNS3](https://img.shields.io/badge/GNS3-153B65?style=for-the-badge)
 
 ## Featured Projects
 
