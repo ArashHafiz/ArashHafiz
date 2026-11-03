@@ -12,7 +12,7 @@ I enjoy building practical applications, exploring new technologies and developi
 - Vice-President of Computer Programming Unplugged (CPU) at Heriot-Watt University Malaysia.
 - Recipient of the 2026 MACS Industrial Prize, awarded for ranking among the top three Computing Science students in my cohort.
 
-## Technical Skills
+## Tech Stack
 
 ### Languages
 
