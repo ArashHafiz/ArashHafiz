@@ -49,13 +49,13 @@ I enjoy building practical applications, exploring new technologies and developi
 
 ### [Document Knowledge Base API](https://github.com/ArashHafiz/knowledgebase)
 
-**![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)**
+**![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)**
 
 A Python-based document management and retrieval API designed to ingest, store and retrieve relevant information from uploaded documents.
 
 - Document ingestion, storage and metadata tracking.
 - Keyword-based retrieval with custom relevance scoring.
-- Exploring retrieval pipelines for future LLM-assisted question answering.
+- Currently testing retrieval pipelines for LLM-assisted question answering.
 
 ### Universal Transport Booking System
 
