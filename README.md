@@ -8,7 +8,7 @@ I enjoy building practical applications, exploring new technologies and developi
 
 - Pursuing a BSc (Hons) in Computing Science (Expected 2028).
 - Interested in backend development, software engineering and AI-assisted applications.
-- Currently building a full-stack knowledge base application using FastAPI, React, and Google Gemini.
+- Currently building a full-stack knowledge base application using FastAPI, React, TypeScript and Google Gemini.
 - Vice-President of Computer Programming Unplugged (CPU) at Heriot-Watt University Malaysia.
 - Recipient of the 2026 MACS Industrial Prize, awarded for ranking among the top three Computing Science students in my cohort.
 
@@ -52,11 +52,12 @@ I enjoy building practical applications, exploring new technologies and developi
 
 **![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)**
 
-A Python-based document management and retrieval API designed to ingest, store and retrieve relevant information from uploaded documents and submit it to an LLM for querying.
+A full-stack application for storing documents, searching them, and asking questions answered by an LLM from the retrieved passages.
 
-- Document ingestion, storage and metadata tracking.
-- Keyword-based retrieval with custom relevance scoring.
-- Currently developing the frontend using React.
+- FastAPI REST backend with SQLAlchemy and SQLite for document storage.
+- Custom keyword retrieval pipeline with IDF-weighted ranking.
+- Gemini-generated answers grounded in retrieved passages, returned with source citations.
+- React and TypeScript frontend for uploading, browsing, searching and asking questions.
 
 ### Universal Transport Booking System
 
