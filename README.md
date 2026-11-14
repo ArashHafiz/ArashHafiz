@@ -61,7 +61,7 @@ A full-stack application for storing documents, searching them, and asking quest
 
 ### Universal Transport Booking System
 
-**![Team Leader](https://img.shields.io/badge/Team_Leader-6A5ACD?style=for-the-badge) ![Software Engineering Project](https://img.shields.io/badge/Software_Engineering_Project-005571?style=for-the-badge)**
+**![Planned Stack](https://img.shields.io/badge/Proposed_Stack-6A5ACD?style=for-the-badge) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Javalin](https://img.shields.io/badge/Javalin-0082B4?style=for-the-badge&logo=openjdk&logoColor=white) ![JDBI](https://img.shields.io/badge/JDBI-2E7D32?style=for-the-badge&logo=openjdk&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)**
 
 Leading a team in the ongoing development of a transport booking application as part of a year-long university Software Engineering project.
 
@@ -70,7 +70,7 @@ Leading a team in the ongoing development of a transport booking application as 
 - Currently in the Project Decisions & Planning phase.
 
 ### [Command-Line Scientific Calculator](https://github.com/ArashHafiz/calculator)
-**![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Decimal](https://img.shields.io/badge/Decimal-3776AB?style=for-the-badge&logo=python&logoColor=white) ![cmath](https://img.shields.io/badge/cmath-00599C?style=for-the-badge&logo=python&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge&logo=python&logoColor=white)**
+**![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)**
 
 A feature-rich command-line calculator developed in Python, supporting mathematical operations, scientific calculations, unit conversions and statistical analysis.
 
