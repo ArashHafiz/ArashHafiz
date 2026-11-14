@@ -61,7 +61,7 @@ A full-stack application for storing documents, searching them, and asking quest
 
 ### Universal Transport Booking System
 
-**![Planned Stack](https://img.shields.io/badge/Proposed_Stack-6A5ACD?style=for-the-badge) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Javalin](https://img.shields.io/badge/Javalin-0082B4?style=for-the-badge&logo=openjdk&logoColor=white) ![JDBI](https://img.shields.io/badge/JDBI-2E7D32?style=for-the-badge&logo=openjdk&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)**
+**![Planned Stack](https://img.shields.io/badge/Planned_Stack-6A5ACD?style=for-the-badge) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Javalin](https://img.shields.io/badge/Javalin-0082B4?style=for-the-badge&logo=openjdk&logoColor=white) ![JDBI](https://img.shields.io/badge/JDBI-2E7D32?style=for-the-badge&logo=openjdk&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)**
 
 Leading a team in the ongoing development of a transport booking application as part of a year-long university Software Engineering project.
 
