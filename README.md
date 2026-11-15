@@ -1,14 +1,10 @@
 # Hi, I'm Arash!
 
-Second Year Computing Science undergraduate at **Heriot-Watt University Malaysia**, interested in software engineering, backend development and AI.
-
-I enjoy building practical applications, exploring new technologies and developing solutions that simplify everyday processes.
-
 ## About Me
 
 - Pursuing a BSc (Hons) in Computing Science (Expected 2028).
 - Interested in backend development, software engineering and AI-assisted applications.
-- Currently building a full-stack knowledge base application using FastAPI, React, TypeScript and Google Gemini.
+- Built a full-stack knowledge base application using FastAPI, React, TypeScript and Google Gemini.
 - Vice-President of Computer Programming Unplugged (CPU) at Heriot-Watt University Malaysia.
 - Recipient of the 2026 MACS Industrial Prize, awarded for ranking among the top three Computing Science students in my cohort.
 
