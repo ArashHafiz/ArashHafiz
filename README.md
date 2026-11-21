@@ -137,8 +137,3 @@ IGCSE | Graduated July 2024
 
 - 7A* and 2A
 - Recognised 2nd Place for Key Stage 4.
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMzggMzQwIiBmaWxsPSIjZmZmZmZmIj48Y2lyY2xlIGN4PSI3OSIgY3k9Ijc3IiByPSIzNSIvPjxyZWN0IHg9IjQ5IiB5PSIxMjUiIHdpZHRoPSI2MCIgaGVpZ2h0PSIxNzQiIHJ4PSIxMCIvPjxwYXRoIGQ9Ik0xMzkgMTM1YzAtNiA0LTEwIDEwLTEwaDM5YzYgMCAxMCA0IDEwIDEwdjEzYzExLTE1IDI2LTI0IDQ3LTI0IDM1IDAgNTQgMjMgNTQgNjd2OThjMCA2LTQgMTAtMTAgMTBoLTQwYy02IDAtMTAtNC0xMC0xMHYtODdjMC0yMS03LTM1LTI1LTM1LTE0IDAtMjIgOS0yNiAxOS0yIDQtMiA5LTIgMTV2ODhjMCA2LTQgMTAtMTAgMTBoLTM3Yy02IDAtMTAtNC0xMC0xMFYxMzV6Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/arash-hafiz/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArashHafiz)
